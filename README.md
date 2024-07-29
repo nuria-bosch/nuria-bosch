@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Núria Bosch, an incoming PhD student in Linguistics at the University of Cambridge.
+I'm Núria Bosch, a PhD student in Linguistics at the University of Cambridge.
 
 I specialise in syntax and language acquisition. You can find my work on my [academic website](https://nuria-bosch.github.io) or on my [ResearchGate](https://www.researchgate.net/profile/Nuria-Bosch-5).
 
